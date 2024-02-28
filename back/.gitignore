@@ -1,0 +1,9 @@
+# dependencies
+.DS_Store
+
+
+# Environment variables
+IT_PROJECT/.DS_Store
+/node_modules
+.env
+
